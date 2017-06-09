@@ -1,4 +1,4 @@
-# Puntos a tener en cuenta
+# POKE TRAINING
 
 Nota: Antes de empezar por favor instale node js en su version LTS 6.9.0  o mayor - https://nodejs.org/en/
 
@@ -12,7 +12,7 @@ Utilice Angular CLI para crear la applicacion: https://github.com/angular/angula
 
 2- Incluir bootstrap o material.io en la aplicación.
 
-3- Crear modulo core, share, pokemon e importarlos en appModule.
+3- Crear el modulo (Core, Share, pokemon) e importarlos en app.module.ts.
 
 4- Crear el servicio con poke.api - http://pokeapi.co/.
 
