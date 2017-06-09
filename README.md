@@ -22,7 +22,7 @@ Utilice Angular CLI para crear la applicacion: https://github.com/angular/angula
 
 7- Crear un pipe para recortar la URL y obtener el ID, cuando se desea ver el detalle del Pokemon.
 
-8- Crear appRouting en app y pokemonRouting en pokemon modules.
+8- Crear app-routing.ts en app y pokemon-routing.ts en pokemon modules.
 
 9- Consumir el servicio en el componente principal.
 
