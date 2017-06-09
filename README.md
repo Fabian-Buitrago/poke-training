@@ -6,7 +6,7 @@ Nota: Antes de empezar por favor instale node js en su version LTS 6.9.0  o mayo
 
 Utilice Angular CLI para crear la applicacion: https://github.com/angular/angular-cli
 
-![alt text](https://imgflip.com/i/1qm7ez)
+![alt text](http://m.memegen.com/06sqm0.jpg)
 
 1- Instalar bootstrap o material.io.
 
